@@ -24,6 +24,7 @@ public class CarTester {
 		int i=0;
 		for (i=0; i<3; i++){
 			System.out.println(cars[i].name);
+			int x = 0;
 		}
 		System.out.println(i);
 		for (i=1; i<=9; i=i+2){
